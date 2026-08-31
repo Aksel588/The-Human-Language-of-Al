@@ -1,3 +1,67 @@
+<!-- SEO Metadata & Open Graph Tags for Google Search & Web Indexers -->
+<!--
+<meta name="description" content="The Human Language of AI by Aksel Aghajanyan — Free open-access digital book on artificial intelligence, large language models (LLMs), prompt engineering, cognitive sovereignty, and human-machine collaboration." />
+<meta name="keywords" content="The Human Language of AI, Aksel Aghajanyan, AI Book, LLM, Prompt Engineering, Large Language Models, Artificial Intelligence, Machine Learning, Cognitive Science, Software Engineering, Free PDF, AI Ethics, NLP, Transformer Models, Deep Learning, AI Craftsmanship" />
+<meta name="author" content="Aksel Aghajanyan" />
+<meta property="og:title" content="The Human Language of AI: Thinking, Talking, and Creating with Intelligent Machines" />
+<meta property="og:description" content="A field guide and philosophical treatise on human cognition, prompt engineering, and software craftsmanship in the era of artificial intelligence." />
+<meta property="og:type" content="book" />
+<meta property="og:url" content="https://github.com/Aksel588/The-Human-Language-of-Al" />
+<meta property="og:image" content="https://raw.githubusercontent.com/Aksel588/The-Human-Language-of-Al/main/cover.png" />
+<meta property="og:site_name" content="The Human Language of AI" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="The Human Language of AI — Aksel Aghajanyan" />
+<meta name="twitter:description" content="Thinking, Talking, and Creating with Intelligent Machines. Free digital edition and chapter directory." />
+<meta name="twitter:image" content="https://raw.githubusercontent.com/Aksel588/The-Human-Language-of-Al/main/cover.png" />
+-->
+
+<!-- Schema.org JSON-LD for Google Rich Results & Knowledge Graph -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Book",
+  "name": "The Human Language of AI: Thinking, Talking, and Creating with Intelligent Machines",
+  "alternateName": "The Human Language of AI",
+  "author": {
+    "@type": "Person",
+    "name": "Aksel Aghajanyan",
+    "url": "https://github.com/Aksel588",
+    "jobTitle": "CEO",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "Aqwel AI"
+    },
+    "sameAs": [
+      "https://www.linkedin.com/in/aksel-aghajanyan",
+      "https://github.com/Aksel588"
+    ]
+  },
+  "url": "https://github.com/Aksel588/The-Human-Language-of-Al",
+  "image": "https://raw.githubusercontent.com/Aksel588/The-Human-Language-of-Al/main/cover.png",
+  "inLanguage": "en",
+  "datePublished": "2026-01-01",
+  "bookFormat": "https://schema.org/EBook",
+  "numberOfPages": 77,
+  "publisher": {
+    "@type": "Organization",
+    "name": "Aqwel AI",
+    "url": "https://github.com/Aksel588"
+  },
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "genre": ["Artificial Intelligence", "Computer Science", "Philosophy of Technology", "Software Engineering", "Cognitive Science"],
+  "about": [
+    "Artificial Intelligence",
+    "Large Language Models",
+    "Prompt Engineering",
+    "Cognitive Sovereignty",
+    "Software Engineering Craftsmanship",
+    "Human-AI Interaction",
+    "AI Ethics and Bias"
+  ],
+  "description": "The Human Language of AI explores the intersection between human natural language, cognitive sovereignty, and artificial intelligence. Written for software engineers, students, researchers, writers, and leaders."
+}
+</script>
+
 <div align="center">
 
 <img src="cover.png" alt="The Human Language of AI" width="320"/>
@@ -93,6 +157,20 @@ The-Human-Language-of-Al/
 * Founder & CEO at Aqwel AI, Yerevan, Armenia 
 * GitHub: [@Aksel588](https://github.com/Aksel588) 
 * LinkedIn: [linkedin.com/in/aksel-aghajanyan](https://www.linkedin.com/in/aksel-aghajanyan) 
+
+---
+
+---
+
+## Key Topics & Index Terms
+
+For researchers, students, engineers, and search engines indexing this repository:
+
+* **Foundations of AI & Cognition:** Adaptive behavior vs. statistical optimization, the psychometrics of intelligence, Charles Spearman's $g$-factor vs. embodied cognition, transformer architectures, and autoregressive models.
+* **Dialectical Prompt Engineering:** Socratic diagnostic prompting, adversarial architecture reviews, edge-case fuzzing, eliminating sycophantic corporate fluff, and treating LLMs as sparring partners rather than oracles.
+* **Software Engineering Craftsmanship:** The maintainer's standard, preventing synthetic technical debt, code review scrutiny for AI-generated pull requests, and building T-shaped technical careers.
+* **Cognitive Psychology & Learning:** Desirable difficulty in learning, the illusion of competence, Feynman technique adaptations, and the necessity of unassisted closed-book tests.
+* **Ethics, Privacy & Governance:** Non-delegable human liability, model hallucinations, algorithmic sycophancy, dataset contamination, data privacy perimeters, and knowing when not to use AI.
 
 ---
 
